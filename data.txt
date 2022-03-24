@@ -1,0 +1,1 @@
+Freesurfer and graymatter features are extracted from UPENN-PNC and FNC features are from UKBioBank data respectively. Please contact the data owners of UPENN-PNC & UKBioBank to download the data and accessing it.
